@@ -2,7 +2,7 @@
 
 A fork of Nanobanners focused around minimal notifications while gaming (in Landscape Orientation) !!
 
-### Download from here: [beta](https://github.com/DrakeDrac/chhotabanner)
+### Download from here: [beta](https://github.com/DrakeDrac/chhotabanner/releases/tag/Beta)
 
 This should theoretically work from iOS 13 - 16. But 13 and 15 are untested for the time being.
 
