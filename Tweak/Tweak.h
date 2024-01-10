@@ -1,7 +1,6 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import <UIKit/UIControl.h>
-#import <Cephei/HBPreferences.h>
 
 @interface NTFConfig : NSObject
 
@@ -106,7 +105,8 @@
 -(void)setAnimationDirection:(long long)arg1 ;
 @end
 
-@interface UIView(Nanobanners)
+
+@interface UIView(Chhotabanners)
 
 -(id)_viewControllerForAncestor;
 
@@ -969,8 +969,8 @@
 @end
 
 
-@interface UIApplication (Notifica)
--(SBNCNotificationDispatcher*)notificationDispatcher;
+@interface UIApplication (Chhotabanners)
+-(long long)_frontMostAppOrientation;
 @end
 
 @interface SBLockScreenManager (Notifica)

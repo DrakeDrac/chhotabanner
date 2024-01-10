@@ -1,9 +1,9 @@
-Package: me.nepeta.nanobanners
-Name: Nanobanners
+Package: me.draked.chhotabanner
+Name: chhotabanner
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Version: 0.1.2
 Architecture: iphoneos-arm
 Description: Small banners
-Maintainer: Nepeta
-Author: Nepeta
+Maintainer: Draked
+Author: Draked
 Section: Tweaks
